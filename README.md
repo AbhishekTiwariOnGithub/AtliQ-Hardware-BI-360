@@ -116,18 +116,19 @@ Note: This project was a part of Codebasics PowerBI Bootcamp 2.0
 ## Dashboard Highlights:
 
 ➡️ **Home Page:**
-
+https://github.com/AbhishekTiwariOnGithub/AtliQ-Hardware-BI-360/blob/main/Home%20GIF.gif
 
 ➡️ **Finance View:** Analyze P&L overview, Net Sales trends, top-performing products/customers
-
+https://github.com/AbhishekTiwariOnGithub/AtliQ-Hardware-BI-360/blob/main/Finance%20GIF.gif
 
 ➡️ **Sales View:** Focus on customer and product performance through matrix and scatter chart
-
+https://github.com/AbhishekTiwariOnGithub/AtliQ-Hardware-BI-360/blob/main/Sales%20GIF.gif
 
 ➡️ **Marketing View:** Evaluate GM% and NP% performance across segments and operational expenses
-
+https://github.com/AbhishekTiwariOnGithub/AtliQ-Hardware-BI-360/blob/main/Marketing%20GIF.gif
 
 ➡️ **Supply Chain View:** Assess Forecast Accuracy, Net Error, ABS Error by customer and product
-
+https://github.com/AbhishekTiwariOnGithub/AtliQ-Hardware-BI-360/blob/main/Supply%20Chain%20GIF.gif
 
 ➡️ **Executive View:** Strategic insights into Market Share trends and revenue. Ribbon Chart for PC Market share trend
+https://github.com/AbhishekTiwariOnGithub/AtliQ-Hardware-BI-360/blob/main/Executive%20GIF.gif
